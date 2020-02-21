@@ -1,0 +1,8 @@
+1 pergunta;
+1 forma responder;
+ter uma pontuação;
+login;
+BD;
+jquery;
+RESPONSIVE;
+RELATORIO
